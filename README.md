@@ -1,0 +1,2 @@
+# Lead-Priortization
+The project aims to leverage customer activity data like time spent on a webpage, no of pages visited, bounce rate, etc to build a predictive machine learning model to classify customers as 'likely to convert' and 'not likely to convert'. Conversion is a term in sales/marekting which can include several actions like purchasing items, adding items to cart, subscribing. The ultimate goal of the machine learning model is to perform more effective customer targeting/ priortization to further drive sales.
